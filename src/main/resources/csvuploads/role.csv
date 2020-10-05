@@ -1,0 +1,6 @@
+﻿id,roleName,roleCode
+1,Primary Investigator,PI
+2,Facilitator,FA
+3,Coordinator,CO
+4,Site Primary Investigator,SPI
+5,SuperAdmin ,SU
